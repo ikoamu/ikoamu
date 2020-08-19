@@ -1,1 +1,1 @@
-:metal::frog::metal:
+:metal: :frog: :metal:
