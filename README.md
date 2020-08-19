@@ -1,1 +1,1 @@
-:cat: :dog: :mouse: :hamster: :rabbit: :wolf: :frog: :tiger: :koala:
+:metal::frog::metal:
