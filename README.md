@@ -37,3 +37,5 @@
 :namibia: :minidisc: :wine_glass: :white_haired_woman: :elf_woman: :elf_woman: :elf_woman: :elf_woman: :nepal: :cupcake: :martial_arts_uniform: :black_joker: :faroe_islands: :minidisc: :luxembourg: :ice_skate: :faroe_islands: :british_indian_ocean_territory: :bowling: :vhs:
 
 :black_small_square: :file_cabinet: :hammer_and_wrench: :hammer_and_wrench: :hammer_and_wrench: :paperclips: :mage_man: :hammer_and_wrench: :black_nib: :eye: :oncoming_police_car: :policewoman: :policewoman: :iphone: :namibia: :skunk: :black_flag: :black_medium_small_square: :mosquito: :mosquito:
+
+👨‍🦰
